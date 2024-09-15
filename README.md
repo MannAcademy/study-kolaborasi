@@ -8,3 +8,5 @@ Berkolaborasi dengan akun satunya :
 - 2 %
 - 3%
 - Menyelesaikan semua progres minimal 10%
+- Keep Strong
+- 
