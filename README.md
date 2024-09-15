@@ -1,5 +1,6 @@
 # study-kolaborasi
 Berkolaborasi dengan akun satunya :
 
-- cara melakukan squarch dengan git
-- Reverst dengan git
+- Progres 15 September 2024 5%
+- Bangkit Academy
+- Kolaborasi input
