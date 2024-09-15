@@ -10,6 +10,4 @@ Berkolaborasi dengan akun satunya :
 - Menyelesaikan semua progres minimal 10%
 - Keep Strong
 - u can do it
-Menjelaskan hal apa saja yang harus diperbaikan untuk kedepanya agar dapat bal bla bla<br>
-Semoga siap dua bulan
-u can do it
+
