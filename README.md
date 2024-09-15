@@ -6,3 +6,4 @@ Berkolaborasi dengan akun satunya :
 - Kolaborasi input
 - 1%
 - 2 %
+- 3%
