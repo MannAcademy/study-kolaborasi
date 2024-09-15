@@ -10,3 +10,4 @@ Berkolaborasi dengan akun satunya :
 - Menyelesaikan semua progres minimal 10%
 - Keep Strong
 - u can do it
+
