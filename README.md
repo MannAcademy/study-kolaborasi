@@ -5,3 +5,4 @@ Berkolaborasi dengan akun satunya :
 - Bangkit Academy
 - Kolaborasi input
 - 1%
+- 2 %
