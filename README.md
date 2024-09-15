@@ -7,3 +7,4 @@ Berkolaborasi dengan akun satunya :
 - 1%
 - 2 %
 - 3%
+- Menyelesaikan semua progres minimal 10%
