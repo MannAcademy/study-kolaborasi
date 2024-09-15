@@ -11,5 +11,5 @@ Berkolaborasi dengan akun satunya :
 - Keep Strong
 - u can do it
 Menjelaskan hal apa saja yang harus diperbaikan untuk kedepanya agar dapat bal bla bla<br>
-Semoga siap dua bulan<br>
+Semoga siap dua bulan
 u can do it
