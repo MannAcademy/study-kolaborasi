@@ -2,3 +2,4 @@
 Berkolaborasi dengan akun satunya :
 
 - cara melakukan squarch dengan git
+- Reverst dengan git
